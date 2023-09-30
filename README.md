@@ -19,7 +19,7 @@ I'm always eager to expand my knowledge and stay up-to-date with the latest tren
 
 [![Dev.to](https://img.shields.io/badge/dev.io-kdc?style=for-the-badge&logo=dev.io&logoColor=white)](https://dev.to/ladoxer)
 
-[![portfolio](https://img.shields.io/badge/dev.io-kdc?style=for-the-badge&logo=dev.io&logoColor=white)](https://www.instagram.com/ladoxer) 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=dev.io&logoColor=white)](https://www.instagram.com/ladoxer) 
 
 ### 💬 Let's Collaborate
 
