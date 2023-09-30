@@ -17,9 +17,9 @@ I'm always eager to expand my knowledge and stay up-to-date with the latest tren
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammed-labeeb-u-64a7a323b)
 
-[![Dev.to]([https://img.shields.io/badge/dev.io-kdc?style=for-the-badge&logo=dev.io&logoColor=white)](https://dev.to/muhammedarifp/](https://dev.to/ladoxer))
+[![Dev.to](https://img.shields.io/badge/dev.io-kdc?style=for-the-badge&logo=dev.io&logoColor=white)](https://dev.to/ladoxer)
 
-[![portfolio]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.instagram.com/arifu_00](https://www.instagram.com/ladoxer)) 
+[![portfolio](https://img.shields.io/badge/dev.io-kdc?style=for-the-badge&logo=dev.io&logoColor=white)](https://www.instagram.com/ladoxer) 
 
 ### 💬 Let's Collaborate
 
