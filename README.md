@@ -1,30 +1,41 @@
-## 👋 About Me
+# 👨‍💻 Muhammed Labeeb U
 
-Hello, I'm Muhammed Labeeb U, a passionate Full Stack Developer developer based India. I have a strong enthusiasm for creating efficient and reliable software solutions.
+> "I don't always test my code, but when I do, I do it in production." – just kidding, I actually write tests
 
-### 🚀 My Skills
+## Who Am I?
+Full-stack developer who builds digital solutions by day and debugs life by night. 4+ years of turning coffee into code across web and mobile platforms.
 
-- *Programming Languages:* Java, JavaScript, TypeScript, C.
-- *Web Development:* I enjoy working on both frontend(Angular) and backend(node js, Express js, nest js, building RESTful APIs).
-- *Database:* Postgres, MongoDB.
-- *Tools & Technologies:* Git, Docker.
+## Tech Arsenal 🛠️
 
-### 🌱 Currently Learning
+```javascript
+const labeeb = {
+  languages: ["JavaScript", "TypeScript", "Java", "C", "Dart"],
+  frontend: ["Angular", "React", "Next.js"],
+  mobile: ["Flutter"],
+  backend: ["Node.js", "Express", "NestJS"],
+  databases: ["PostgreSQL", "MongoDB"],
+  devOps: ["Docker", "Microservices Architecture"],
+  currentlyObsessedWith: "Building scalable microservices that don't wake me up at 3 AM"
+};
+```
 
-I'm always eager to expand my knowledge and stay up-to-date with the latest trends in the software development industry. Currently, I'm exploring Angular,nest js, React js, Databases, Microservices,And more frontend and backend frameworks.
+## Current Adventures 🚀
+- Crafting pixel-perfect UIs that don't make designers cry
+- Architecting microservices that actually talk to each other
+- Exploring the infinite abyss of npm packages
+- Trying to explain to my family what I actually do for a living
 
-### 🔗 Connect with Me
+## Let's Connect! 🔗
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-labeeb-u-64a7a323b)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ladoxer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.your-portfolio-url.com)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammed-labeeb-u-64a7a323b)
+## GitHub Stats 📊
+![Labeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladoxer&show_icons=true&theme=tokyonight)
 
-[![Dev.io](https://img.shields.io/badge/dev.io-kdc?style=for-the-badge&logo=dev.io&logoColor=white)](https://dev.to/ladoxer)
+## Fun Facts 💭
+- I debug better with music than with documentation
+- My code has fewer bugs than my houseplants have leaves
+- I can explain Docker to my grandmother (results may vary)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.instagram.com/ladoxer) 
-
-### 💬 Let's Collaborate
-
-I'm open to collaboration and working on exciting projects. If you're interested in working together or have any questions, feel free to reach out. Let's create something awesome!
-
-Feel free to explore my GitHub repositories below to see some of my projects and contributions. If you find anything interesting or have any feedback, don't hesitate to get in touch.
-
-Thank you for visiting my GitHub profile! 🚀
+> "The best error message is the one that never shows up." - My daily mantra
