@@ -16,7 +16,7 @@ const ladoxer = {
   mobile: ["Flutter"],
   backend: ["Node.js", "Express", "NestJS"],
   databases: ["PostgreSQL", "MongoDB"],
-  devOps: ["Docker", "Microservices Architecture"],
+  devOps: ["Docker", "Microservices Architecture", "Kubernetes"],
   currentlyObsessedWith: "Building scalable microservices that don't wake me up at 3 AM"
 };
 ```
